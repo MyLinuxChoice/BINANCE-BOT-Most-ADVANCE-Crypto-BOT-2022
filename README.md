@@ -3,7 +3,7 @@
 <h4 align="center">⭐️ DO YOU TIRED OF BEAR MARKET ? USE BOTS FOR 24H TRADES ⭐️</h4>
 
 <h4 align="center">⭐️ This is an experimental bot for auto trading the binance.com exchange with Notifications ⭐️</h4>
-   
+    
     
 ![Screenshot](https://cryptocoinname.com/wp-content/uploads/2022/01/1641497870_maxresdefault-768x432.jpg)
 
