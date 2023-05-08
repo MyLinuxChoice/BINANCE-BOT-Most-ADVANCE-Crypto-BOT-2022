@@ -25,7 +25,7 @@ The way the bot takes advantage of the observed behaviour is to always downgrade
 
 
 The bot jumps between a configured set of coins on the condition that it does not return to a coin unless it is profitable in respect to the amount held last. This means that we will never end up having less of a certain coin. The risk is that one of the coins may freefall relative to the others all of a sudden, attracting our reverse greedy algorithm.
-
+ 
 
 ## Tool Setup
 
