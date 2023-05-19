@@ -10,7 +10,7 @@
 ### Notifications with Apprise
 
 Apprise allows the bot to send notifications to all of the most popular notification services available such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc.
-
+ 
 To set this up you need to create a apprise.yml file in the config directory.
 
 There is an example version of this file to get you started.
