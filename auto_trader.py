@@ -9,7 +9,7 @@ from .database import Database
 from .logger import Logger
 from .models import Coin, CoinValue, Pair
 
-
+ 
 class AutoTrader:
     def __init__(self, binance_manager: BinanceAPIManager, database: Database, logger: Logger, config: Config):
         self.manager = binance_manager
