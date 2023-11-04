@@ -8,7 +8,7 @@
 ![Screenshot](https://cryptocoinname.com/wp-content/uploads/2022/01/1641497870_maxresdefault-768x432.jpg)
 
 ### Notifications with Apprise
-
+ 
 Apprise allows the bot to send notifications to all of the most popular notification services available such as: Telegram, Discord, Slack, Amazon SNS, Gotify, etc.
 
 To set this up you need to create a apprise.yml file in the config directory.
